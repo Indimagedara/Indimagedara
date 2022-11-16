@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Indimagedara
 - 👀 I’m interested in Coding and Startups
-- 🌱 I’m currently learning NestJS and NextJs, 
-<!-- - 💞️ I’m looking to collaborate on ... -->
+- 🌱 I’m currently learning NestJS and NextJs 
 - 📫 Reach me on nimesh@codebrixtech.com
 
 <!---
