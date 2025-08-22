@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Indimagedara
 - 👀 I’m interested in Coding and Startups
-- 🌱 I’m currently learning NestJS and NextJs 
 - 📫 Reach me on nimeshnishara@gmail.com
 
 <!---
